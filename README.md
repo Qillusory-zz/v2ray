@@ -52,6 +52,8 @@
 
 使用: `v2ray help`
 
+自定义安装: `wget https://github.com/Qillusory-zz/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l`
+
 ```
 V2Ray script v4.21 by 233boy
 Usage: v2ray [options]... [args]...
